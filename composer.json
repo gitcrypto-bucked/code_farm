@@ -1,0 +1,19 @@
+{
+    "autoload": 
+    {
+		"psr-4": 
+        {
+            "app\\" :"app/",
+            "app\\controllers\\" :"app/controllers/",
+            "app\\models\\" :"app/models/",
+            "app\\views\\" :"app/views/",
+            "bootstrap\\":"bootstrap/", 
+            "config\\" : "config/",
+            "dataservice\\": "dataservice/",
+            "interfaces\\": "interfaces/",
+            "route\\":"route//",
+            "request\\":"request/"
+        }
+	}
+    
+}
